@@ -1,5 +1,5 @@
 """
-WSGI config for testservice project.
+WSGI settings for testservice project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

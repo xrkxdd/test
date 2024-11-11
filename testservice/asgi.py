@@ -1,5 +1,5 @@
 """
-ASGI config for testservice project.
+ASGI settings for testservice project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
