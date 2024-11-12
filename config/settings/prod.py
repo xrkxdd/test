@@ -4,7 +4,7 @@ from .base import *
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://test-85kx.onrender.com/', 'localhost', '127.0.0.1', os.environ.get('RENDER_EXTERNAL_HOSTNAME')]
 
 # Database configuration
 DATABASES = {
